@@ -1,2 +1,4 @@
-# python-dice-28
+# Python Dice 28
+
 A random dice rolling simulator CLI in Python.
+
